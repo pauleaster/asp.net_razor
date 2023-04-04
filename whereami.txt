@@ -1,0 +1,3 @@
+I am up to here
+
+https://learn.microsoft.com/en-gb/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-7.0&tabs=visual-studio#the--directive
