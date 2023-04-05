@@ -230,7 +230,8 @@ gradle-app.setting
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -798,3 +799,8 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/dotsettings,fsharp,linux,node,react,reactnative,visualstudio,visualstudiocode,web
+
+
+# Manual entries for temp db files
+**/*.db-shm
+**/*.db-wal
